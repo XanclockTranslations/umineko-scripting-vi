@@ -171,7 +171,7 @@
 `Còn về phần bà Kumasawa, dường như bà thực sự xúc động khi thấy không chỉ vì cô Rosa còn nhớ lời hứa từ tận năm ngoái, mà còn vì món quà ấy lại được đem tặng cho một gia nhân tầm thường như bà.`
 `Bà lão này là Kumasawa Chiyo ({p:0:熊沢 チヨ}).`
 `Bà là một gia nhân kỳ cựu đã phục vụ tại nhà chính của gia tộc Ushiromiya từ rất lâu rồi.`
-`{n}Ở độ tuổi của bà, đương nhiên bà không còn kham nổi mấy công việc nặng nhọc, nhưng từ nấu nướng, lau dọn, cho đến giặt giũ, bà vẫn là kiểu người hầu "đa năng" có thể xoay sở được mọi thứ.`
+`{n}Ở độ tuổi của bà, đương nhiên bà không còn kham nổi mấy công việc nặng nhọc, nhưng từ nấu nướng, lau dọn, cho đến giặt giũ, bà vẫn là kiểu gia nhân "đa năng" có thể xoay sở được mọi thứ.`
 `Điểm yếu duy nhất của bà có vẻ là... hay trốn việc.`
 `Nghe đâu bà hay viện cớ bệnh tật mãn tính để khỏi phải làm mấy công việc nặng hoặc rắc rối.`
 `......Trong trường hợp của bà Kumasawa, chắc phải gọi đó là kiểu lười khôn ngoan.`
